@@ -1,0 +1,17 @@
+{
+  "name": "karolina/colors",
+  "description": "colors CRUD",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Colors\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Colored",
+      "email": "colors@colors.com"
+    }
+  ],
+  "require": {}
+}
