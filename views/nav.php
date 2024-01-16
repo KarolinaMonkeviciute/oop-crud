@@ -23,3 +23,5 @@
     </div>
   </div>
 </nav>
+
+<?php require ROOT.'views/message.php' ?>
