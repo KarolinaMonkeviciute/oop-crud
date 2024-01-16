@@ -19,5 +19,4 @@ class HomeController
             'title' => 'Home Color'
         ]);
     }
-    
 }

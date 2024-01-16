@@ -10,19 +10,10 @@
           <a class="nav-link active" aria-current="page" href="<?= URL ?>">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Colors
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="<?= URL ?>/colors/create">Create new</a></li>
-            <li><a class="dropdown-item" href="#">Show all colors</a></li>
-          </ul>
+            <a class="nav-link active" aria-current="page" href="<?= URL ?>/colors/create">Create new</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        <a class="nav-link active" aria-current="page" href="<?= URL ?>/colors">Show all colors</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
